@@ -1,6 +1,8 @@
 # RAG-pdf
 Playing with pdf
 Sample Example of RAG based system to train the LLM model using the local document like Pdf. Post that we can ask any questions to the model and try to see of the model can asnwer the questions based on the details available in the trained document.
+![image](https://github.com/user-attachments/assets/d8758dd6-e3c7-415a-9601-f1d19954d70b)
+
 
 Step 1: If you are running in ur local please make sure you install Ollama and make the llama2/llama3.1 is up and running.
         i) Download ollama from https://ollama.com/ and install in your machine.
